@@ -1,0 +1,16 @@
+{
+    "apts": [
+          {
+               "url": "deb [arch=arm64] https://microavia:CopterPower@deb.microavia.com bionic main"
+          }
+     ],
+    "packages_info": {
+           "packages": [
+             {
+                "name": "microavia-atlas-v1",
+                "version": "10.0.0"
+             }
+           ],
+           "hash": "hash over packages"
+      }
+}

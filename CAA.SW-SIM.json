@@ -1,0 +1,11 @@
+{
+    "apts": [
+          {
+               "url": "deb [arch=amd64] https://microavia:CopterPower@deb.microavia.com bionic main"
+          }
+     ],
+    "packages_info": {
+           "packages": [],
+           "hash": "hash over packages"
+      }
+}

@@ -1,0 +1,16 @@
+{
+    "apts": [
+          {
+               "url": "deb [arch=arm64] https://microavia:CopterPower@deb.microavia.com bionic main"
+          }
+     ],
+    "packages_info": {
+           "packages": [
+             {
+                "name": "microavia-firmware",
+                "version": "9.0.1"
+             }
+           ],
+           "hash": "hash over packages"
+      }
+}
